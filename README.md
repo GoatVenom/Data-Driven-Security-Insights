@@ -60,4 +60,3 @@ This project can be used to:
 * Monitor breach trends
 * Simulate impact forecasting for hypothetical breaches
 * Explore which factors most influence breach consequences
-* 
