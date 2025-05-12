@@ -11,11 +11,17 @@ Project Objectives
 
 Project Structure:
 ├── data/             #Dataset 
+
 ├── notebooks/        #Jupyter notebooks for EDA, ML, visualization
+
 ├── src/              #Modular Python scripts for data & model logic
+
 ├── reports/          #Visualizations and analysis results
+
 ├── requirements.txt  #Python dependencies
+
 ├── README.md         #Project overview 
+
 ├── LICENSE 
 
 
