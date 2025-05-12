@@ -33,7 +33,7 @@ Main Packages Used:
 -jupyter
 
 How to Use: 
-git clone https://github.com/GoatVenom/Data-Drive-Security-Insights.git
+git clone https://github.com/GoatVenom/Data-Driven-Security-Insights.git
 cd Data-Drive-Security-Insights
 
 
