@@ -1,6 +1,6 @@
  Data Drive Security Insights
 
-Data Drive Security Insights is a machine learning project focused on analyzing and predicting the nature and impact of cybersecurity breaches. Using breach data, this project classifies breach methods and predicts the estimated impact (e.g., number of records lost), helping inform proactive data protection strategies.
+Data Drive Security Insights is a A machine learning research project analyzing cybersecurity breach data to identify patterns of attack behavior and impact, translating complex datasets into actionable, risk-prioritized security insights.
 
 Project Objectives
 
